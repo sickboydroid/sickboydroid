@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sickboydroid
-- 👀 I’m interested in desktop GUI apps
-- 🌱 I’m currently learning javaFX
+- 👀 I’m interested in DSA
+- 🌱 I’m currently Dynamic Programming
 
 <!---
 sickboydroid/sickboydroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
