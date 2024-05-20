@@ -6,11 +6,14 @@
   <img title="Github Stats" alt="sickboy's streak" src="https://github-readme-stats.vercel.app/api?username=sickboydroid&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sickboydroid&layout=pie&theme=dracula&hide_border=true)](https://github.com/sickboydroid/MusicKey)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sickboydroid&layout=pie&theme=dracula&hide_border=true)](https://github.com/sickboydroid/bombparty-bot)
 
-## Repo I am most proud of
+## Repos I am most proud of
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=dracula&hide_border=true)](https://github.com/sickboydroid/bombparty-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=MusicKey&theme=dracula&hide_border=true)](https://github.com/sickboydroid/MusicKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Spy&theme=dracula&hide_border=true)](https://github.com/sickboydroid/Spy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=ScreenFilterLite&theme=dracula&hide_border=true)](https://github.com/sickboydroid/ScreenFilterLite)
 
 <!---
 sickboydroid/sickboydroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
