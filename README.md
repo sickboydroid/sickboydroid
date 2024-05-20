@@ -4,7 +4,7 @@
 
 <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickboydroid&count_private=true&layout=pie&theme=dracula&hide_border=true"/>
-    <img src="https://github-readme-stats.vercel.app/api?username=sickboydroid&count_private=true&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=sickboydroid&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
 <div>
 
 ## Repos I am most proud of
