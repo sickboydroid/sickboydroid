@@ -7,13 +7,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sickboydroid&count_private=true&show_icons=true&theme=dracula&hide_border=true"/>
 <div>
 
-## Repos I am most proud of
+## Repos I am most proud of: (In no particular order)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Bezier-Curves&theme=dracula)](https://github.com/sickboydroid/Bezier-Curves)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=dracula)](https://github.com/sickboydroid/bombparty-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=MusicKey&theme=dracula)](https://github.com/sickboydroid/MusicKey)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Spy&theme=dracula)](https://github.com/sickboydroid/Spy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=ScreenFilterLite&theme=dracula)](https://github.com/sickboydroid/ScreenFilterLite)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Bezier-Curves&theme=dracula)](https://github.com/sickboydroid/Bezier-Curves)
 
 <!---
 sickboydroid/sickboydroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
