@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sickboydroid
+    - 👋 Hi, I’m @sickboydroid
 - 👀 I’m currently learning webdev from [theodinproject.com](https://theodinproject.com)
 - 🌱 I have experience in java, android dev, android reverse engineering, python and javascript (work in progress)
 
@@ -9,10 +9,11 @@
 
 ## Repos I am most proud of
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=dracula&hide_border=true)](https://github.com/sickboydroid/bombparty-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=MusicKey&theme=dracula&hide_border=true)](https://github.com/sickboydroid/MusicKey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Spy&theme=dracula&hide_border=true)](https://github.com/sickboydroid/Spy)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=ScreenFilterLite&theme=dracula&hide_border=true)](https://github.com/sickboydroid/ScreenFilterLite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=dracula)](https://github.com/sickboydroid/bombparty-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=MusicKey&theme=dracula)](https://github.com/sickboydroid/MusicKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Spy&theme=dracula)](https://github.com/sickboydroid/Spy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=ScreenFilterLite&theme=dracula)](https://github.com/sickboydroid/ScreenFilterLite)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Bezier-Curves&theme=dracula)](https://github.com/sickboydroid/Bezier-Curves)
 
 <!---
 sickboydroid/sickboydroid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
