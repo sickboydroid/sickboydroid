@@ -7,10 +7,10 @@
 
 ## 📌 Pinned
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Bezier-Curves&theme=gotham&hide_broder=true)](https://github.com/sickboydroid/Bezier-Curves)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=gotham&hide_broder=true)](https://github.com/sickboydroid/bombparty-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=MusicKey&theme=gotham&hide_broder=true)](https://github.com/sickboydroid/MusicKey)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Spy&theme=gotham&hide_broder=true)](https://github.com/sickboydroid/Spy)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Bezier-Curves&theme=gotham&hide_border=true)](https://github.com/sickboydroid/Bezier-Curves)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=gotham&hide_border=true)](https://github.com/sickboydroid/bombparty-bot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=MusicKey&theme=gotham&hide_border=true)](https://github.com/sickboydroid/MusicKey)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Spy&theme=gotham&hide_border=true)](https://github.com/sickboydroid/Spy)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=ScreenFilterLite&theme=gotham&hide_border=true)](https://github.com/sickboydroid/ScreenFilterLite)
 
 ## ⚡ Activity
