@@ -7,7 +7,10 @@
     <img src="https://github-readme-stats.vercel.app/api?username=sickboydroid&count_private=true&show_icons=true&theme=dracula"/>
 <div>
 
-## Repos I am most proud of: (In no particular order)
+
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=D-Gaspa&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## 📌 Pinned
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=Bezier-Curves&theme=dracula)](https://github.com/sickboydroid/Bezier-Curves)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sickboydroid&repo=bombparty-bot&theme=dracula)](https://github.com/sickboydroid/bombparty-bot)
