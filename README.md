@@ -3,8 +3,7 @@
 - 👋 Hi, I’m @sickboydroid
 - 👀 I’m currently learning webdev from [theodinproject.com](https://theodinproject.com)
 - 🌱 I have experience in **java**, **android dev**, **android reverse engineering**, **python** and **javascript**
-- 🍄 Currently preparing for collage entrance exam
-)
+
 <!--
 ## 📌 Pinned
 
