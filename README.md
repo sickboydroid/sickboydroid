@@ -1,8 +1,13 @@
 ## 📢 Intro
 
-- 👋 Hi, I’m @sickboydroid
-- 👀 I’m currently learning webdev from [theodinproject.com](https://theodinproject.com)
-- 🌱 I have experience in **java**, **android dev**, **android reverse engineering**, **python** and **javascript**
+- 🚀 First-year student at **NIT Srinagar**  
+- 🌱 Currently learning **Web Development** via [The Odin Project](https://theodinproject.com)  
+- 💻 Experience in:  
+  - **Java**, **Python**, **JavaScript**  
+  - **Android Development & Reverse Engineering**  
+  - **Competitive Programming & Automation**  
+
+✨ Always curious, always building!
 
 <!--
 ## 📌 Pinned
