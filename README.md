@@ -20,7 +20,17 @@
 -->
 
 ## ⚡ Activity <img align="right" src="https://img.shields.io/github/stars/sickboydroid?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/sickboydroid?tab=followers"><img align="right" src="https://img.shields.io/github/followers/sickboydroid?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/sickboydroid">  <img align="right" src="https://komarev.com/ghpvc/?username=sickboydroid"></a>
+<div align="center">
 
+  <a href="https://github.com/sickboydroid">
+    <img src="https://github-readme-stats.vercel.app/api?username=sickboydroid&show_icons=true&theme=transparent&hide_border=true&title_color=5BCDEC&text_color=8b949e&icon_color=5BCDEC&hide=stars" height="160" alt="My Github Stats" />
+  </a>
+
+  <a href="https://github.com/sickboydroid">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sickboydroid&layout=compact&theme=transparent&hide_border=true&title_color=5BCDEC&text_color=8b949e&icon_color=5BCDEC" height="160" alt="My Top Languages" />
+  </a>
+
+</div>
 <!--
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sickboydroid&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph&layout=compact)
 
