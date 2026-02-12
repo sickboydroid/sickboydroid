@@ -21,8 +21,6 @@
 
 ## ⚡ Activity <img align="right" src="https://img.shields.io/github/stars/sickboydroid?label=Stars&style=social" alt="GitHub Badge"> <a href="https://github.com/sickboydroid?tab=followers"><img align="right" src="https://img.shields.io/github/followers/sickboydroid?label=Followers&style=social" alt="GitHub Badge"></a> <a href="https://github.com/sickboydroid">  <img align="right" src="https://komarev.com/ghpvc/?username=sickboydroid"></a>
 
-![sickboy's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sickboydroid&theme=gotham&show_icons=true&hide_border=true&layout=compact)
-![sickboy's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sickboydroid&theme=gotham&hide_border=true&layout=compact)
 <!--
 [![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sickboydroid&theme=gotham)](https://github.com/ashutosh00710/github-readme-activity-graph&layout=compact)
 
